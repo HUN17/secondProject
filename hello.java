@@ -8,5 +8,6 @@ public class hello{
 		System.out.println("What is GIT?");
 		System.out.println("That's a DVCS!");
 		System.out.println("2002 BitKeeper DVCS");
+		System.out.println("That's version control")
 	}
 }
